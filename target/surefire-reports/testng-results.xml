@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="52" started-at="2019-10-13T23:09:02 IST" finished-at="2019-10-13T23:09:02 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="52" started-at="2019-10-13T23:09:02 IST" finished-at="2019-10-13T23:09:02 IST">
+      <class name="TestMavenPackage.ChromeSeleniumTest">
+        <test-method status="PASS" signature="browserChromeAutomation1()[pri:0, instance:TestMavenPackage.ChromeSeleniumTest@3ffc5af1]" name="browserChromeAutomation1" duration-ms="7" started-at="2019-10-13T23:09:02 IST" finished-at="2019-10-13T23:09:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserChromeAutomation1 -->
+        <test-method status="PASS" signature="browserChromeAutomation2()[pri:0, instance:TestMavenPackage.ChromeSeleniumTest@3ffc5af1]" name="browserChromeAutomation2" duration-ms="0" started-at="2019-10-13T23:09:02 IST" finished-at="2019-10-13T23:09:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserChromeAutomation2 -->
+      </class> <!-- TestMavenPackage.ChromeSeleniumTest -->
+      <class name="TestMavenPackage.IESeleniumTest">
+        <test-method status="PASS" signature="browserIEAutomation1()[pri:0, instance:TestMavenPackage.IESeleniumTest@5e5792a0]" name="browserIEAutomation1" duration-ms="1" started-at="2019-10-13T23:09:02 IST" finished-at="2019-10-13T23:09:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserIEAutomation1 -->
+        <test-method status="PASS" signature="browserIEAutomation2()[pri:0, instance:TestMavenPackage.IESeleniumTest@5e5792a0]" name="browserIEAutomation2" duration-ms="0" started-at="2019-10-13T23:09:02 IST" finished-at="2019-10-13T23:09:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserIEAutomation2 -->
+      </class> <!-- TestMavenPackage.IESeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
