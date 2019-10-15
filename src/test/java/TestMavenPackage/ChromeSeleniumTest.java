@@ -16,5 +16,16 @@ public class ChromeSeleniumTest {
 		System.out.println("BrowserChromeAutomation2");
 	}
 	
+	@Test
+	public void browserChromeAutomation3()
+	{
+		System.out.println("BrowserChromeAutomation3");
+	}
+	
+	@Test
+	public void browserChromeAutomation4()
+	{
+		System.out.println("BrowserChromeAutomation4");
+	}
 
 }
