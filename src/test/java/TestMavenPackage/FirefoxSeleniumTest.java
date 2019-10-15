@@ -14,4 +14,10 @@ public class FirefoxSeleniumTest {
 	{
 		System.out.println("BrowserFirefoxAutomation2");
 	}
+	
+	@Test
+	public void browserFirefoxAutomation3()
+	{
+		System.out.println("BrowserFirefoxAutomation3");
+	}
 }
